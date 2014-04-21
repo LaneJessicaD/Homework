@@ -1,1 +1,15 @@
-<h1> Roll the Dice! </h1>
+<h1>Lottery Numbers</h1>
+
+<% lucky_number = rand(6) + 1 %>
+<% lucky_number2 = rand(6) + 1 %>
+
+The first set of #'s are: <%= lucky_number %>, <%= lucky_number2 %>
+
+<br><img src="http://kiei925.com/images/dice/1.png" /> </br>
+
+<br><img src="http://kiei925.com/images/dice/2.png" /> </br>
+<br><img src="http://kiei925.com/images/dice/3.png" /> </br>
+<br><img src="http://kiei925.com/images/dice/4.png" /> </br>
+<br><img src="http://kiei925.com/images/dice/5.png" /> </br>
+<br><img src="http://kiei925.com/images/dice/6.png" /> </br>
+
