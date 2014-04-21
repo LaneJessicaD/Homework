@@ -1,4 +1,8 @@
-# Example table for a typical Book model.
+Book:
+  - title: string
+  - author: string
+
+  # Example table for a typical Book model.
 #
 # Book:
 #   - title: string
